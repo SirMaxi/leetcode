@@ -6,3 +6,4 @@
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](./solutions/7.%20Reverse%20Integer.js)|120 ms|
 |9|[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JavaScript](./solutions/9.%20Palindrome%20Number.js)|1324 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[JavaScript](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js)|84 ms|
+|1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[JavaScript](./solutions/1470.%20Shuffle%20the%20Array.js)|88 ms|
