@@ -11,6 +11,7 @@
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[JavaScript](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.js)|96 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[JavaScript](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js)|80 ms|
 |1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[JavaScript](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js)|128 ms|
+|1389|[ Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[JavaScript](./solutions/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.js)|76 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[JavaScript](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js)|84 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[JavaScript](./solutions/1470.%20Shuffle%20the%20Array.js)|88 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[JavaScript](./solutions/1512.%20Number%20of%20Good%20Pairs.js)|80 ms|
