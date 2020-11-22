@@ -17,3 +17,4 @@
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[JavaScript](./solutions/1512.%20Number%20of%20Good%20Pairs.js)|80 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[JavaScript](./solutions/1528.%20Shuffle%20String.js)|88 ms|
 |1603|[ Design Parking System](https://leetcode.com/problems/design-parking-system/)|[JavaScript](./solutions/1603.%20Design%20Parking%20System.js)|272 ms|
+|1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[JavaScript](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.js)|84 ms|
