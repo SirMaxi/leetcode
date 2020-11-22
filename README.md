@@ -7,6 +7,7 @@
 |9|[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JavaScript](./solutions/9.%20Palindrome%20Number.js)|1324 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](./solutions/771.%20Jewels%20and%20Stones.js)|84 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[JavaScript](./solutions/1108.%20Defanging%20an%20IP%20Address.js)|76 ms|
+|1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[JavaScript](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.js)|84 ms|
 |1281|[ Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[JavaScript](./solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.js)|76 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[JavaScript](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.js)|96 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[JavaScript](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js)|80 ms|
