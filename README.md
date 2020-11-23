@@ -6,6 +6,7 @@
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](./solutions/7.%20Reverse%20Integer.js)|120 ms|
 |9|[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JavaScript](./solutions/9.%20Palindrome%20Number.js)|1324 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](./solutions/771.%20Jewels%20and%20Stones.js)|84 ms|
+|938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./solutions/938.%20Range%20Sum%20of%20BST.js)|300 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[JavaScript](./solutions/1108.%20Defanging%20an%20IP%20Address.js)|76 ms|
 |1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[JavaScript](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.js)|84 ms|
 |1281|[ Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[JavaScript](./solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.js)|76 ms|
