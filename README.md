@@ -8,6 +8,7 @@
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](./solutions/771.%20Jewels%20and%20Stones.js)|84 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./solutions/938.%20Range%20Sum%20of%20BST.js)|300 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[JavaScript](./solutions/1108.%20Defanging%20an%20IP%20Address.js)|76 ms|
+|1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./solutions/1179.%20Reformat%20Department%20Table.mysql)|602 ms|
 |1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[JavaScript](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.js)|84 ms|
 |1281|[ Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[JavaScript](./solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.js)|76 ms|
 |1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[JavaScript](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.js)|92 ms|
