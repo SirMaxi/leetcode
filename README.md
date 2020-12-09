@@ -5,6 +5,7 @@
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./solutions/1.%20Two%20Sum.js)|3872 ms|
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](./solutions/7.%20Reverse%20Integer.js)|120 ms|
 |9|[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JavaScript](./solutions/9.%20Palindrome%20Number.js)|1324 ms|
+|175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./solutions/175.%20Combine%20Two%20Tables.mysql)|265 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](./solutions/620.%20Not%20Boring%20Movies.mysql)|168 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](./solutions/771.%20Jewels%20and%20Stones.js)|84 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./solutions/938.%20Range%20Sum%20of%20BST.js)|300 ms|
